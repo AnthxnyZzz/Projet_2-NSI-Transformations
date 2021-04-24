@@ -16,7 +16,7 @@
 <p></br>
 
 <p> <h3> 3e programme : Symétrie centrale </h3> </br>
-<p> C'est un mélange entre la <strong>symétrie horizontale</strong> et la <strong>symétrie verticale </strong> </br>
+<p> C'est un mélange entre la <strong>symétrie horizontale</strong> et la <strong>symétrie verticale</strong>. </br>
 <p></br>
 
 <p> <h3> 4e programme : Défilement horizontal </h3> </br>
