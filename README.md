@@ -1,8 +1,9 @@
 # Projet_2-NSI-Transformations
 <h1> Projet 2 : Transformation d'images </h1>
-<p></br>
+
 
 <p> Ce programme s'appelle le Ansteleen (Anthony, Steban et Kathleen) </br>
+<p></br>
 
 <p> <h2> Description et fonctionnement du programme : </h2></br>
 
