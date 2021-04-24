@@ -9,6 +9,7 @@
 
 <p> <h3> 1er programme : Symétrie horizontale </h3> </br>
 <p> Ce programme a pour but de reproduire une image à l'identique par rapport à un axe. Et dans le cas de la symétrie horizontale, on inverse l'axe des abscisses. </br>
+https://github.com/AnthxnyZzz/Projet_2-NSI-Transformations/blob/a725c1455ecd3a533f2e8e1169b5e6bd1cfcb8d4/Projetscaptures/hori(200).png
 <p></br>
 
 <p> <h3> 2e programme : Symétrie verticale </h3> </br>
